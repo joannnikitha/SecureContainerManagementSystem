@@ -1,0 +1,31 @@
+﻿
+@model SecureContainer.Models.Container
+
+@using (Html.BeginForm("AddContainer", "Containers", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    <div>
+        <label>Container Number</label>
+        @Html.TextBoxFor(m => m.ContainerNumber, new { @class = "form-control" })
+    </div>
+    <div>
+        <label>Shipment Date</label>
+        @Html.TextBoxFor(m => m.ShipmentDate, new { @type = "date", @class = "form-control" })
+    </div>
+    <div>
+        <label>Origin Port</label>
+        @Html.TextBoxFor(m => m.OriginPort, new { @class = "form-control" })
+    </div>
+    <div>
+        <label>Destination Port</label>
+        @Html.TextBoxFor(m => m.DestinationPort, new { @class = "form-control" })
+    </div>
+    <div>
+        <label>Status</label>
+        @Html.DropDownListFor(m => m.Status, new SelectList(new[] { "In Transit", "At Dock", "Delivered" }), "Select Status", new { @class = "form-control" })
+    </div>
+    <div>
+        <label>Upload File</label>
+        <input type="file" name="file" />
+    </div>
+    <button type="submit">Submit</button>
+}

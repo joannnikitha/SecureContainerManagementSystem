@@ -1,0 +1,214 @@
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\SecureContainer.dll.config
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\SecureContainer.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\SecureContainer.pdb
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\csc.exe
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\csc.exe.config
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\csc.rsp
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\csi.exe
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\csi.exe.config
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\csi.rsp
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\System.AppContext.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\System.Console.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\System.IO.Compression.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\System.IO.Pipes.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\System.Security.Claims.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\System.ValueTuple.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\vbc.exe
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\vbc.exe.config
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\vbc.rsp
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\VBCSCompiler.exe
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Antlr3.Runtime.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\EntityFramework.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\EntityFramework.SqlServer.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Microsoft.Owin.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Microsoft.Owin.Security.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Newtonsoft.Json.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Owin.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\System.Web.Helpers.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\System.Web.Mvc.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\System.Web.Optimization.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\System.Web.Razor.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\System.Web.WebPages.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\System.Web.WebPages.Razor.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\WebGrease.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\System.Web.Helpers.xml
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\System.Web.Mvc.xml
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\System.Web.Optimization.xml
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\System.Web.Razor.xml
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\System.Web.WebPages.xml
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\System.Web.WebPages.Razor.xml
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Newtonsoft.Json.xml
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Antlr3.Runtime.pdb
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\EntityFramework.xml
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\EntityFramework.SqlServer.xml
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Microsoft.Owin.xml
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Microsoft.Owin.Security.xml
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\obj\Debug\SecureContainer.csprojAssemblyReference.cache
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\obj\Debug\SecureContainer.Migrations.initial.resources
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\obj\Debug\SecureContainer.csproj.GenerateResource.cache
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\obj\Debug\SecureContainer.csproj.CoreCompileInputs.cache
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\obj\Debug\SecureContainer.csproj.CopyComplete
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\obj\Debug\SecureContainer.dll
+C:\Users\joann\OneDrive\Documents\New Folder1\SecureContainer\SecureContainer\obj\Debug\SecureContainer.pdb
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\SecureContainer.dll.config
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\SecureContainer.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\SecureContainer.pdb
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\csc.exe
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\csc.exe.config
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\csc.rsp
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\csi.exe
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\csi.exe.config
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\csi.rsp
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\System.AppContext.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\System.Console.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\System.IO.Compression.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\System.IO.Pipes.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\System.Security.Claims.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\System.ValueTuple.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\System.Xml.XPath.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\vbc.exe
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\vbc.exe.config
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\vbc.rsp
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\VBCSCompiler.exe
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Antlr3.Runtime.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\EntityFramework.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\EntityFramework.SqlServer.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Microsoft.Owin.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Microsoft.Owin.Security.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Newtonsoft.Json.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Owin.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\System.Web.Helpers.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\System.Web.Mvc.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\System.Web.Optimization.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\System.Web.Razor.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\System.Web.WebPages.Deployment.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\System.Web.WebPages.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\System.Web.WebPages.Razor.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\WebGrease.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\System.Web.Helpers.xml
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\System.Web.Mvc.xml
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\System.Web.Optimization.xml
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\System.Web.Razor.xml
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\System.Web.WebPages.xml
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\System.Web.WebPages.Deployment.xml
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\System.Web.WebPages.Razor.xml
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Newtonsoft.Json.xml
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Antlr3.Runtime.pdb
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\EntityFramework.xml
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\EntityFramework.SqlServer.xml
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Microsoft.Owin.xml
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Microsoft.Owin.Security.xml
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\obj\Debug\SecureContainer.Migrations.initial.resources
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\obj\Debug\SecureContainer.Migrations.addrolestoidentity.resources
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\obj\Debug\SecureContainer.csproj.GenerateResource.cache
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\obj\Debug\SecureContainer.csproj.CoreCompileInputs.cache
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\obj\Debug\SecureContainer.csproj.CopyComplete
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\obj\Debug\SecureContainer.dll
+C:\Users\joann\OneDrive\Documents\New folder (2)\SecureContainer\SecureContainer\SecureContainer\obj\Debug\SecureContainer.pdb

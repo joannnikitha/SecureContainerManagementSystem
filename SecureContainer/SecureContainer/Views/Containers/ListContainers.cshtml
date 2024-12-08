@@ -1,0 +1,29 @@
+﻿@model IEnumerable<SecureContainer.Models.Container>
+
+<table>
+    <thead>
+        <tr>
+            <th>Container Number</th>
+            <th>Shipment Date</th>
+            <th>Origin Port</th>
+            <th>Destination Port</th>
+            <th>Status</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var container in Model)
+        {
+            <tr>
+                <td>@container.ContainerNumber</td>
+                <td>@container.ShipmentDate.ToShortDateString()</td>
+                <td>@container.OriginPort</td>
+                <td>@container.DestinationPort</td>
+                <td>@container.Status</td>
+                <td><a href="@container.FilePath">Download</a></td>
+            </tr>
+        }
+    </tbody>
+</table>
+<p>@Html.ActionLink("Add Container", "AddContainer")</p>
+
